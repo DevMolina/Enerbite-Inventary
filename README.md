@@ -12,4 +12,9 @@ o solamente
 yarn 
 ```
 
+Luego para montar la página en un servidor local debe ejecutar 
 
+
+```
+yarn dev
+```
